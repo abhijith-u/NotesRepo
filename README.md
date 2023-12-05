@@ -1,2 +1,2 @@
 # ObsidianRepo
-Repo for Obsidian.md notes
+Repo for notes (in markdown)
